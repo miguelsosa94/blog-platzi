@@ -1,4 +1,4 @@
-#BLOG DE MIGUEL SOSA
+# BLOG DE MIGUEL SOSA
 Un blog increible que será el inicio de una fran carrera profesional.
 
 > Desarrollado por Miguel Sosa. Ingeniero en Sistemas Computacionales egresado del Instituto Tecnológico de Pachuca en México. Estudiante de Platzi.
