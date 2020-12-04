@@ -9,6 +9,7 @@ Un blog increible que será el inicio de una fran carrera profesional.
 * Flujo de trabajo de GitHub.
 * Buenas Prácticas.
 * Creado por un estudiante Platzi
+* Incluye ejemplos en 3 sistemas operativos
 
 [Visiten Platzi](https://platzi.com/home "Visiten Platzi")
 
