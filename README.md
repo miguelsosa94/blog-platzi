@@ -8,6 +8,7 @@ Un blog increible que será el inicio de una fran carrera profesional.
 * Comandos de GIT.
 * Flujo de trabajo de GitHub.
 * Buenas Prácticas.
+* Creado por un estudiante Platzi
 
 [Visiten Platzi](https://platzi.com/home "Visiten Platzi")
 
